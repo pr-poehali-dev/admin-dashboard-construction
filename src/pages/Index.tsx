@@ -41,7 +41,7 @@ const Index = () => {
             <Icon name="Building2" size={24} className="text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-gray-900">СтройАдмин</h1>
+            <h1 className="text-xl font-bold text-gray-900">Строймаркет</h1>
             <p className="text-sm text-gray-500">Панель управления</p>
           </div>
         </div>
